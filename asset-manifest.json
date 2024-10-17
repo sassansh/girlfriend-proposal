@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sassan-and-Parmida/static/css/main.e6c13ad2.css",
+    "main.js": "/Sassan-and-Parmida/static/js/main.b994825b.js",
+    "static/js/453.706bca5a.chunk.js": "/Sassan-and-Parmida/static/js/453.706bca5a.chunk.js",
+    "index.html": "/Sassan-and-Parmida/index.html",
+    "main.e6c13ad2.css.map": "/Sassan-and-Parmida/static/css/main.e6c13ad2.css.map",
+    "main.b994825b.js.map": "/Sassan-and-Parmida/static/js/main.b994825b.js.map",
+    "453.706bca5a.chunk.js.map": "/Sassan-and-Parmida/static/js/453.706bca5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b994825b.js"
+  ]
+}
